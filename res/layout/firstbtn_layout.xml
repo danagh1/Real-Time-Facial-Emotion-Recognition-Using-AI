@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    android:gravity="center_horizontal">
+
+        <RelativeLayout
+            android:layout_width="400dp"
+            android:layout_height="380dp">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="400dp"
+                android:layout_height="380dp"
+                android:scaleType="centerCrop" />
+
+            <ImageView
+                android:id="@+id/hidden"
+                android:layout_width="400dp"
+                android:layout_height="380dp"
+                android:src="@drawable/emotion"
+                android:scaleType="centerCrop" />
+        </RelativeLayout>
+
+    <Button
+        android:id="@+id/capture_image_btn"
+        android:layout_width="340dp"
+        android:layout_height="60dp"
+        android:backgroundTint="@color/blue"
+        android:text="Capture Image"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp" />
+
+    <Button
+        android:id="@+id/choose_image_btn"
+        android:layout_width="340dp"
+        android:layout_height="60dp"
+        android:backgroundTint="@color/blue"
+        android:text="Choose Image From Gallery"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/process_image_btn"
+        android:layout_width="340dp"
+        android:layout_height="60dp"
+        android:backgroundTint="@color/blue"
+        android:text="Process Image"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+</LinearLayout>
