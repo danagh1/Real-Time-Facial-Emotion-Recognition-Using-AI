@@ -12,4 +12,4 @@ When the second button is pressed, a camera screen will appear for the user, whi
 
 <img align="left" src="https://github.com/danagh1/Real-Time-Facial-Emotion-Recognition-Using-AI/blob/main/app_screen1.PNG" width="250" >
 <img align="center" src="https://github.com/danagh1/Real-Time-Facial-Emotion-Recognition-Using-AI/blob/main/app_screen2.PNG" width="250" >
-<img align="right" src="https://github.com/danagh1/Real-Time-Facial-Emotion-Recognition-Using-AI/blob/main/app_screen3.PNG" width="250" >
+<img align="center" src="https://github.com/danagh1/Real-Time-Facial-Emotion-Recognition-Using-AI/blob/main/app_screen3.PNG" width="250" >
