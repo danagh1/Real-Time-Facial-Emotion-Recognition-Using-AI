@@ -10,4 +10,4 @@ When press the first button, a screen will appear with three buttons, one to cap
 
 When the second button is pressed, a camera screen will appear for the user, which will detect his emotions in real-time. At the top of the camera there will be a button to flip the camera and next to it there is a button to set the delay time, and based on the time that the user sets, a notification will be sent to the user containing the user's emotion and some tips, and when clicking on the notification, a video will open for the user to watch to give him a visual reference to understand how to manage his feeling.
 
-<img align="left" src="https://github.com/danagh1/Real-Time-Facial-Emotion-Recognition-Using-AI/blob/main/screen.png" width="250" >
+<img align="left" src="https://github.com/danagh1/Real-Time-Facial-Emotion-Recognition-Using-AI/blob/main/screen.png" width="500" >
