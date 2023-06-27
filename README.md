@@ -15,6 +15,7 @@ When the second button is pressed, a camera screen will appear for the user, whi
 <img align="left" src="https://github.com/danagh1/Real-Time-Facial-Emotion-Recognition-Using-AI/blob/main/screen2.PNG" width="800" />
 
 _____
+
 ## Setup:
 First you must download these in order to run the application:
 1) Android Studio Electric Eel | 2022.1.1 Patch 1
